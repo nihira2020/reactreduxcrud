@@ -1,0 +1,36 @@
+{
+  "comapany": [
+    {
+      "id": 1,
+      "name": "NT Infotech ",
+      "email": "n@in.com",
+      "phone": "79999999",
+      "Address": "1st street",
+      "type": "DOMESTIC"
+    },
+    {
+      "id": 2,
+      "name": "ABC Ltd",
+      "email": "abc@in.com1",
+      "phone": "8787878787",
+      "Address": "no 5, 5th street,\nchennai,\nIndai",
+      "type": "MNC"
+    },
+    {
+      "id": 3,
+      "name": "Nt Technologies",
+      "email": "nttech@gmail.com",
+      "phone": "989000000",
+      "Address": "no 7, Carmel street, Bangalore,\nIndia",
+      "type": "MNC"
+    },
+    {
+      "id": 5,
+      "name": "NT Techiees",
+      "email": "nttech@in.com",
+      "phone": "78888888",
+      "Address": "23/12, 2nd street,\nchennai",
+      "type": "MNC"
+    }
+  ]
+}
